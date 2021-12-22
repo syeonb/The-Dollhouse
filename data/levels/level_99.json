@@ -1,0 +1,46 @@
+{
+  "background": 151,
+  "description": "Title Screen",
+  "doors": [
+    {
+      "pos": {
+        "x": 600.0,
+        "y": 580.0
+      },
+      "scale": {
+        "x": 150.0,
+        "y": 150.0
+      },
+      "texture_id": 153
+    }
+  ],
+  "player_doll": {
+    "angle": 0.0,
+    "collision_proof": false,
+    "dir": 0,
+    "position": {
+      "x": 100.0,
+      "y": 400.0
+    },
+    "scale": {
+      "x": 120.0,
+      "y": 120.0
+    },
+    "velocity": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "walls": [
+    {
+      "pos": {
+        "x": 600,
+        "y": 200
+      },
+      "scale": {
+        "x": 1200,
+        "y": 400
+      }
+    }
+  ]
+}

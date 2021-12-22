@@ -1,0 +1,113 @@
+{
+  "background": 51,
+  "description": "Study room",
+  "doors": [
+    {
+      "pos": {
+        "x": 100.0,
+        "y": 87.0
+      },
+      "scale": {
+        "x": 85.0,
+        "y": 145.0
+      },
+      "texture_id": 57
+    }
+  ],
+  "player_doll": {
+    "angle": 0.0,
+    "collision_proof": false,
+    "dir": 0,
+    "position": {
+      "x": 1100.0,
+      "y": 220.0
+    },
+    "scale": {
+      "x": 120.0,
+      "y": 120.0
+    },
+    "velocity": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "healthPotions": [
+    {
+      "world_id": 15,
+      "pos": {
+        "x": 100,
+        "y": 250
+      },
+      "game_item_name": 1
+    },
+    {
+      "world_id": 16,
+      "pos": {
+        "x": 1090,
+        "y": 550
+      },
+      "game_item_name": 2
+    }
+  ],
+  "mementos": [
+    {
+      "id": 7,
+      "pos": {
+        "x": 240,
+        "y": 630
+      }
+    }
+  ],
+  "walls": [
+    {
+      "pos": {
+        "x": 600,
+        "y": 80
+      },
+      "scale": {
+        "x": 1200,
+        "y": 160
+      }
+    },
+    {
+      "pos": {
+        "x": 210,
+        "y": 450
+      },
+      "scale": {
+        "x": 420,
+        "y": 210
+      }
+    },
+    {
+      "pos": {
+        "x": 175,
+        "y": 480
+      },
+      "scale": {
+        "x": 350,
+        "y": 220
+      }
+    },
+    {
+      "pos": {
+        "x": 1075,
+        "y": 390
+      },
+      "scale": {
+        "x": 250,
+        "y": 210
+      }
+    },
+    {
+      "pos": {
+        "x": 955,
+        "y": 460
+      },
+      "scale": {
+        "x": 40,
+        "y": 350
+      }
+    }
+  ]
+}

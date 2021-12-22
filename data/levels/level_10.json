@@ -1,0 +1,33 @@
+{
+  "background": 47,
+  "description": "Hallway leading to boss battle",
+  "player_doll": {
+    "angle": 0.0,
+    "collision_proof": false,
+    "dir": 1,
+    "position": {
+      "x": 50.0,
+      "y": 550.0
+    },
+    "scale": {
+      "x": 120.0,
+      "y": 120.0
+    },
+    "velocity": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "walls": [
+    {
+      "pos": {
+        "x": 600,
+        "y": 150
+      },
+      "scale": {
+        "x": 1200,
+        "y": 300
+      }
+    }
+  ]
+}

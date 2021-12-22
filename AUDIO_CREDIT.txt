@@ -1,0 +1,72 @@
+This file contains credits for sound effects used in the game. All sources are Creative Commons Licensed sounds, so it is legal to use them in our game.
+
+lightning.wav:
+Magic Lightning Spell Impact & Punch https://freesound.org/people/EminYILDIRIM/sounds/541480/
+by EminYILDIRIM/ https://freesound.org/people/EminYILDIRIM/
+under CC-BY 3.0 License http://creativecommons.org/licenses/by/3.0/legalcode
+
+battle_hit.wav:
+Created by Hacrown87 on freesound.org
+https://freesound.org/people/Hacrown87/sounds/488257/
+
+
+fireball.wav:
+Created by Jofae on freesound.org
+https://freesound.org/people/Jofae/sounds/368511/
+
+
+splash.wav:
+Created by EminYILDRIM on freesound.org
+https://freesound.org/people/EminYILDIRIM/sounds/554796/
+
+
+power_up.wav:
+Created by Breviceps on freesound.org
+https://freesound.org/people/Breviceps/sounds/452998/
+
+
+shield.wav:
+Created by Eschwabe3 on freesound.org
+https://freesound.org/people/Eschwabe3/sounds/460132/
+
+
+taunt.wav:
+Created by slightlydrybeans on freesound.org
+https://freesound.org/people/slightlydrybeans/sounds/126678/
+
+
+darkness.wav:
+Disenchant.flac http://freesound.org/people/qubodup/sounds/202148
+by Iwan ‘qubodup’ Gabovitch http://freesound.org/people/qubodup
+under CC-BY 3.0 License http://creativecommons.org/licenses/by/3.0/legalcode
+
+
+poison.wav:
+PoisonGasRelease. wav https://freesound.org/people/wobesound/sounds/488392/
+by Wobesound https://freesound.org/people/wobesound/
+under CC-BY 1.0 https://creativecommons.org/licenses/by/1.0/legalcode
+
+
+thorns.wav:
+Arcade Bleep Sound https://freesound.org/people/Kodack/sounds/258020/
+by Kodack https://freesound.org/people/Kodack/
+under CC-BY 1.0 https://creativecommons.org/licenses/by/1.0/legalcode
+
+heal.wav:
+Retro game heal sound https://freesound.org/people/lulyc/sounds/346116/
+by lulyc https://freesound.org/people/lulyc/
+under CC-BY 1.0 https://creativecommons.org/licenses/by/1.0/legalcode
+
+menu_click.wav:
+Menu Selection Click https://freesound.org/people/NenadSimic/sounds/171697/
+by NenadSimic https://freesound.org/people/NenadSimic/
+under CC-BY 1.0 https://creativecommons.org/licenses/by/1.0/legalcode
+
+get_item.wav:
+Pickup_Coin.wav https://freesound.org/people/alphatrooper18/sounds/362424/
+by alphatrooper18 https://freesound.org/people/alphatrooper18/
+under CC-BY 3.0 License http://creativecommons.org/licenses/by/3.0/legalcode
+
+====SOUNDTRACK==========
+dollhouse_battle.wav is written and produced by Naoreen Kabir
+TheDollhouse.wav is written and produced by Naoreen Kabir

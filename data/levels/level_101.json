@@ -1,0 +1,21 @@
+{
+  "background": 164,
+  "description": "You win screen",
+  "player_doll": {
+    "angle": 0.0,
+    "collision_proof": false,
+    "dir": 0,
+    "position": {
+      "x": 1500.0,
+      "y": 900.0
+    },
+    "scale": {
+      "x": 120.0,
+      "y": 120.0
+    },
+    "velocity": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  }
+}
