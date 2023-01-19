@@ -3,7 +3,7 @@
 Inspired by games such as The Binding of Isaac, Pokemon and EarthBound.  
 Created as part of the CPSC 427 (Video Game Programming) course at the University of British Columbia.  
 Received jury award for Best Game and Best Graphics during CPSC 427's 2021W1 offering.  
-The demo video of this game can be found [here](https://kapwi.ng/c/FxYvB78AYC).  
+The demo video of this game can be found [here](https://www.youtube.com/watch?v=3SKd5kvph7A).  
 
 ## Team Members
 [Rosaline Baek](https://github.com/syeonb)  
